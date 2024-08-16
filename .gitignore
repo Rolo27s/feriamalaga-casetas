@@ -40,9 +40,9 @@ testem.log
 .DS_Store
 Thumbs.db
 
-#Environment
-/src/environment/*
-/environment/*
-/environment
-/src/environment/*.ts
-/environment/*.ts
+#Environment ---- git rm -r --cached src/environment/
+# /src/environment/*
+# /environment/*
+# /environment
+# /src/environment/*.ts
+# /environment/*.ts

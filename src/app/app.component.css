@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.search {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+}
+
+.search input {
+    max-width: 600px;
+    width: 600px;
+    width: 100%;
+    padding: 0.25em;
+}
+
+.map-container {
+    max-width: 600px;
+    max-height: 800px;
+    width: 600px;
+    height: 800px;
+}

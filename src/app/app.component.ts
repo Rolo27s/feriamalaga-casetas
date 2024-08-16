@@ -13,10 +13,10 @@ export class AppComponent implements AfterViewInit {
   @ViewChild(GoogleMap) googleMap!: GoogleMap;
 
   center: google.maps.LatLngLiteral = {
-    lat: 36.70621187275582,
-    lng: -4.463896904755543
+    lat: 36.70454050502399, 
+    lng: -4.462976671450127,
   };
-  zoom = 16;
+  zoom = 17;
   options: google.maps.MapOptions = {
     zoomControl: true,
     streetViewControl: false,

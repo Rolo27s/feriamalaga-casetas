@@ -9,3 +9,7 @@
 body {
     margin: 0.5em;
 }
+
+main {
+    width: 100%;
+}

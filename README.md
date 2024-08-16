@@ -1,10 +1,8 @@
-# GoogleMapsExample
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
-
 ## Open Source Code
+Faltan casetas!!! Ayuda al desarrollo del programa añadiendo casetas en JSON con ruta: src/assets/booths.json
 
-Ayuda al desarrollo del programa añadiendo casetas en el archivo 'booths.json'
+# GoogleMapsExample
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
 
 ## Development server
 

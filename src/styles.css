@@ -7,9 +7,45 @@
 }
 
 body {
-    margin: 0.5em;
+    display: flex;
+    justify-content: center;
+    background-color: #ddd;
+    margin: 0.25em 0.5em;
+}
+
+.body-container {
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
     width: 100%;
+}
+
+h1 {
+    color: #222;
+}
+
+p {
+    font-size: 12px;
+    color: #4b4b4bd3;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+    margin: 0.25em;
+    background-color: #ccc;
+    border-radius: 6px;
+    gap: 0.5em;
+}
+
+.info-icon {
+    width: 24px;
 }

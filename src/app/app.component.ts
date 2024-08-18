@@ -16,7 +16,7 @@ export class AppComponent implements AfterViewInit {
     lat: 36.70454050502399, 
     lng: -4.462976671450127,
   };
-  zoom = 17;
+  zoom = 16;
   options: google.maps.MapOptions = {
     zoomControl: true,
     streetViewControl: false,
